@@ -37,6 +37,7 @@ Create an executable version that can accept different argument such as:
 email and password
 email interval time
 uninstall and delete time so that a computer can be logged for a certain amount of time completely unnoticed and then all evidence of the program self erase.
-
+Add optional text via twilio. 
+Add webcam and screen shot capture
 
 
