@@ -30,14 +30,6 @@ keylogger.py: (only works on windows)
 After running the keylogger.py in order to stop the process you must open task scheduler and delete the scheduled task. Use task manager to end the process. (will likely be under background processes) and also delete the copy it made of itself in C:\Users\<user that ran>
 If you do not delete the copy it made of itself it will not schedule itself to run again becuase this is what it checks to determine if it has been ran previously or not.
 
-TO DO: 
-write a scipt that automates the deletion of the copy, the removal of the scheduled task, and ensures that you are not being logged.
 
-Create an executable version that can accept different argument such as:
-email and password
-email interval time
-uninstall and delete time so that a computer can be logged for a certain amount of time completely unnoticed and then all evidence of the program self erase.
-Add optional text via twilio. 
-Add webcam and screen shot capture
 
 
