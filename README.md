@@ -1,4 +1,4 @@
-# keylogger
+# Text Recorder Demo
 DISCLAIMER: 
   This is code is meant to be used for personal use only. Any one using this code is responsible for any and all uses.
   This was not meant to be used for malicious or illegal purposes and anyone who does such is responsible for their own actions. 
